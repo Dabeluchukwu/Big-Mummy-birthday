@@ -10,7 +10,7 @@ Today is your birthday, and I want you to know: the life I'm building now carrie
 
 Happy birthday, Big Mummy. We love you more than these words can hold.
 
-With all my love,`;
+Dabeluchukwu Nwabueze,`;
 
 export const dualNotes = [
   {
